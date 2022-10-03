@@ -1,0 +1,5 @@
+/app/.phpunit.cache/
+/app/var/
+/app/vendor/
+/.idea/
+/app/public/
